@@ -1,0 +1,64 @@
+Gene,Category
+PAX6,Early progenitor
+FOXG1,Early progenitor
+NKX2-1,Early progenitor
+DLX1,Middle progenitor
+DLX2,Middle progenitor
+ASCL1,Middle progenitor
+DLX5,Late progenitor
+DLX6,Late progenitor
+LHX6,Late progenitor
+SATB1,Late progenitor
+SOX6,Late progenitor
+DCX,Late progenitor / early postmitotic
+ZEB2,Cells destined for cortex
+ERBB4,Cells destined for cortex
+EPHB1,Cells destined for striatum
+EPHB3,Cells destined for striatum
+OLIG1,OPC
+OLIG2,OPC
+PDGFRA,OPC
+SST,Common neuron subtype
+PVALB,MGE subtype absent in vitro
+GAD1,All neurons
+RBFOX3,Mature neurons
+SLC12A5,Makes GABA inhibitory
+SNAP25,Neurons
+NEUROD6,Neurons
+SATB2,Neurons
+STMN2,Neurons
+RBFOX2,Neurons (Neun) 
+SLC17A7,Excitatory Neurons (Vglut)
+GAD2,Interneurons
+CCK,Interneurons
+NPY,Interneurons
+RELN,Interneurons
+AQP4,Astrocytes
+GFAP,Astrocytes
+NTRK2,Astrocytes
+GJA1,Astrocytes
+C1QA,Astrocytes
+ITGAM,Microglia / Astrocytes
+ALDOC,Astrocytes
+MOG,Oligodendrocyte
+MBP,Oligodendrocyte
+MAG,Oligodendrocyte
+MOBP,Oligodendrocyte
+MAL,Oligodendrocyte
+RTN4,Mature Oligodendrocyte (NOGO)
+DCN,Oligodendrocyte Precursor Cells
+COL3A1,Oligodendrocyte Precursor Cells
+NKX2-2,Oligodendrocyte Precursor Cells
+SOX10,Oligodendrocyte / OPC
+TYROBP,Microglia
+LY86,Microglia
+HLA-A,Microglia
+HLA-B,Microglia
+LAPTM5,Microglia
+IL6,Activated microglia (M1)
+TNFA,Activated microglia (M1)
+IL4,Activated microglia (M2)
+TGFB,Activated microglia (M2)
+IFITM1,Microglia / Astrocytes
+VIM,Microglia / Astrocytes
+VEGF,Endothelial cells
